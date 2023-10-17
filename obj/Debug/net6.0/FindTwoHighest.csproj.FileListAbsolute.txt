@@ -1,0 +1,14 @@
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.AssemblyInfoInputs.cache
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.AssemblyInfo.cs
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.csproj.CoreCompileInputs.cache
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\bin\Debug\net6.0\FindTwoHighest.exe
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\bin\Debug\net6.0\FindTwoHighest.deps.json
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\bin\Debug\net6.0\FindTwoHighest.runtimeconfig.json
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\bin\Debug\net6.0\FindTwoHighest.dll
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\bin\Debug\net6.0\FindTwoHighest.pdb
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.dll
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\refint\FindTwoHighest.dll
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.pdb
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\FindTwoHighest.genruntimeconfig.cache
+C:\Users\mcguertyj\Documents\Repos\FindTwoHighest\obj\Debug\net6.0\ref\FindTwoHighest.dll
